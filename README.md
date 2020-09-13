@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there 👋
+ 
+ I'm Mrmagicpie(He/Him), the CEO of IsThicc, https://isthicc.xyz/. I'm the head web developer at EssentialsBot, https://essentialsbot.xyz/, and owner of the AquaHQ Network, https://aquahq.net/.
+
 
 <!--
 **Mrmagicpie/Mrmagicpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
