@@ -16,11 +16,11 @@
   - [owner@strawberry-hosting.xyz](mailto:owner@strawberry-hosting.xyz)
   - [mrmagicpie@essentialsbot.xyz](mailto:mrmagicpie@essentialsbot.xyz)
   - Discord: [MrMagicPie#0790 <i>Click me :wink:</i>](https://discord.com/users/424721524621180930)
-
+<!--
 <i>Thank you to [@Fxcilities](https://github.com/Fxcilities) for giving me ideas for my Readme! :D</i>
 
 
-<!--
+
 **Mrmagicpie/Mrmagicpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
