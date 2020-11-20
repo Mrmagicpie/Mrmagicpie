@@ -8,6 +8,7 @@
   - [@IsThicc](https://github.com/IsThicc) - CEO of IsThicc, [here](https://isthicc.xyz)
   - [The Mrmagicpie website](https://mrmagicpie.xyz)
   - [@BoisBot](https://github.com/boisbot), website [here](https://bois-bot.tech)
+  - [The Apache2 Help site](https://apache.mrmagicpie.xyz)
   
  ### Kinda dead projects:
   - Strawberry Hosting, [here](https://strawberry-hosting.xyz)
