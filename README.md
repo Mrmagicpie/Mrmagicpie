@@ -36,6 +36,6 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
 - [License](https://license.mrmagicpie.xyz)
 - [Apache2](https://apache.mrmagicpie.xyz)
   - [Apache2 Ubuntu](https://ubuntu-apache.mrmagicpie.xyz)
-  - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz
-- [Root](https://root.mrmagicpie.xyz
+  - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz)
+- [Root](https://root.mrmagicpie.xyz)
 - [Dictionary](https://dictionary.mrmagicpie.xyz)
