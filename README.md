@@ -39,3 +39,9 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
   - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz)
 - [Root](https://root.mrmagicpie.xyz)
 - [Dictionary](https://dictionary.mrmagicpie.xyz)
+
+## Btw
+
+Oh, also, I'm gay, deal with it or the door to exit my life is over there ->   <img src="https://i.pinimg.com/474x/b5/82/02/b582023766b740a29ce7e92cea8241bb--front-doors-the-doors.jpg" alt="Gay Door" width="25" height="50">
+
+[Image credit here!](https://i.pinimg.com/474x/b5/82/02/b582023766b740a29ce7e92cea8241bb--front-doors-the-doors.jpg)
