@@ -4,7 +4,7 @@ Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicp
 
 ## Who are you 
 
-I'm a yound developer learning many things. Below is a list of things I'm learning oop:
+I'm a young developer learning many things. Below is a list of things I'm learning oop:
 
 - CSS
 - HTML
