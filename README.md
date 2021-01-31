@@ -6,12 +6,10 @@ Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicp
 
 I'm a young developer learning many things. Below is a list of things I'm learning oop:
 
-- CSS
-- HTML
-- PHP 
+- C#
 - Python
 - Bash
-- GitHub - [kek](https://img.mrmagicpie.xyz/kekw.mp3)
+- Java
 
 I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, please do **not** call me mmp. You will be automatically unfriended, just ask [@knotam](https://github.com/knotam).
 
@@ -20,7 +18,7 @@ I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, 
 - [BoisBot](https://bois-bot.tech)
 - [AquaHQ](https://aquahq.net)
 - [Apache2](https://apache.mrmagicpie.xyz)
-- [EssentialsBot - Website](https://essentialsbot.xyz)
+- [IsThicc](https://isthicc.xyz/)
 
 ## Get in touch!
 
@@ -28,7 +26,7 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
 
 - [Discord](https://discord.com/users/424721524621180930)
 - [Email](mailto:mrmagipie@mrmagicpie.xyz)
-- [Other](https://mrmagicpie.xyz/contact)
+- [Other](https://mrmagicpie.xyz/about#Contact)
 
 ## My sites
 
