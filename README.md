@@ -30,13 +30,15 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
 
 ## My sites
 
-- [Main](https://mrmagicpie.xyz)
-- [License](https://license.mrmagicpie.xyz)
-- [Apache2](https://apache.mrmagicpie.xyz)
-  - [Apache2 Ubuntu](https://ubuntu-apache.mrmagicpie.xyz)
-  - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz)
-- [Root](https://root.mrmagicpie.xyz)
-- [Dictionary](https://dictionary.mrmagicpie.xyz)
+- [Main](https://mrmagicpie.xyz/)
+- [License](https://license.mrmagicpie.xyz/)
+- [Apache2](https://apache.mrmagicpie.xyz/)
+  - [Apache2 Ubuntu](https://ubuntu-apache.mrmagicpie.xyz/)
+  - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz/)
+- [Root](https://root.mrmagicpie.xyz/)
+- [Dictionary](https://dictionary.mrmagicpie.xyz/)
+- [IsThicc](https://isthicc.xyz/)
+- [Bois](https://bois-bot.tech/)
 <!--
 ## Btw
 
