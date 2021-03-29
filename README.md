@@ -1,6 +1,6 @@
 # Well hello there 👋
 
-Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicpie.xyz). My pronouns are he/him <!--and they/them oop -->but you can really call me anything, and I'll respond.
+Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicpie.xyz). My pronouns are **they/them** <!--and they/them oop -->but you can really call me anything, and I'll respond.
 
 ## Who are you 
 
@@ -9,7 +9,8 @@ I'm a young developer learning many things. Below is a list of things I'm learni
 - C#
 - Python
 - Bash
-- Java
+- A bit of Java
+- A bit of C++
 
 I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, please do **not** call me mmp. You will be automatically unfriended, just ask [@knotam](https://github.com/knotam).
 
@@ -18,7 +19,7 @@ I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, 
 - [BoisBot](https://bois-bot.tech)
 - [AquaHQ](https://aquahq.net)
 - [Apache2](https://apache.mrmagicpie.xyz)
-- [IsThicc](https://isthicc.xyz/)
+- [IsThicc](https://isthicc.dev/)
 
 ## Get in touch!
 
@@ -37,8 +38,9 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
   - [Apache2 Centos](https://centos-apache.mrmagicpie.xyz/)
 - [Root](https://root.mrmagicpie.xyz/)
 - [Dictionary](https://dictionary.mrmagicpie.xyz/)
-- [IsThicc](https://isthicc.xyz/)
+- [IsThicc](https://isthicc.dev/)
 - [Bois](https://bois-bot.tech/)
+
 <!--
 ## Btw
 
