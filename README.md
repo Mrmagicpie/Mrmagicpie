@@ -11,6 +11,7 @@ I'm a young developer learning many things. Below is a list of things I'm learni
 - Bash
 - A bit of Java
 - A bit of C++
+- A bit of JavaScript
 
 I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, please do **not** call me mmp. You will be automatically unfriended, just ask [@knotam](https://github.com/knotam).
 
@@ -39,6 +40,9 @@ Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
 - [Root](https://root.mrmagicpie.xyz/)
 - [Dictionary](https://dictionary.mrmagicpie.xyz/)
 - [IsThicc](https://isthicc.dev/)
+  - [Documentation](https://docs.isthicc.dev/)
+  - [Dashboard](https://isthicc.dev/login)
+  - [Discord](https://discord.isthicc.dev/)
 - [Bois](https://bois-bot.tech/)
 
 <!--
