@@ -2,9 +2,9 @@
 
 Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicpie.xyz). My pronouns are **they/them** <!--and they/them oop -->but you can really call me anything, and I'll respond.
 
-## Who are you 
+## Who am I 
 
-I'm a young developer learning many things. Below is a list of things I'm learning oop:
+I'm a young developer learning many things. Below is a list of things I'm learning:
 
 - C#
 - Python
@@ -24,9 +24,9 @@ I go by many names but I prefer, Mrmagicpie, Magic, or Pie, and please, please, 
 
 ## Get in touch!
 
-Wow, you wanna talk to me? :O I feel honored :> You can use the contacts below!
+Wow, you wanna talk to me? :O I feel honored. You can use the contacts below!
 
-- [Discord](https://discord.com/users/424721524621180930)
+- [Discord](https://discord.com/users/424721524621180930) - Mrmagicpie#0790
 - [Email](mailto:mrmagipie@mrmagicpie.xyz)
 - [Other](https://mrmagicpie.xyz/about#Contact)
 
