@@ -1,6 +1,6 @@
 # Well hello there 👋
 
-Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicpie.xyz). My pronouns are **they/them** <!--and they/them oop -->but you can really call me anything, and I'll respond.
+Hello! I'm Mrmagicpie, a young developer from [the magic lands](https://mrmagicpie.xyz). My pronouns are **he/them** but you can really call me anything, and I'll respond.
 
 ## Who am I 
 
